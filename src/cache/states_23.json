@@ -1,0 +1,115 @@
+[
+  {
+    "state_geo_id": 10000,
+    "country_geo_id": 23,
+    "shortlist": "BE-VAN",
+    "state": "Antwerpen",
+    "alias": []
+  },
+  {
+    "state_geo_id": 10001,
+    "country_geo_id": 23,
+    "shortlist": "BE-VLI",
+    "state": "Limburg",
+    "alias": []
+  },
+  {
+    "state_geo_id": 10002,
+    "country_geo_id": 23,
+    "shortlist": "BE-VOV",
+    "state": "Oost-Vlaanderen",
+    "alias": []
+  },
+  {
+    "state_geo_id": 10003,
+    "country_geo_id": 23,
+    "shortlist": "BE-VBR",
+    "state": "Vlaams-Brabant",
+    "alias": []
+  },
+  {
+    "state_geo_id": 10004,
+    "country_geo_id": 23,
+    "shortlist": "BE-VWV",
+    "state": "West-Vlaanderen",
+    "alias": []
+  },
+  {
+    "state_geo_id": 10005,
+    "country_geo_id": 23,
+    "shortlist": "BE-WBR",
+    "state": "Brabant Wallon",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Waals Brabant",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "state_geo_id": 10006,
+    "country_geo_id": 23,
+    "shortlist": "BE-WHT",
+    "state": "Hainaut",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Henegouwen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "state_geo_id": 10007,
+    "country_geo_id": 23,
+    "shortlist": "BE-WLG",
+    "state": "Liège",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Luik",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "state_geo_id": 10008,
+    "country_geo_id": 23,
+    "shortlist": "BE-WLX",
+    "state": "Luxembourg",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Luxemburg",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "state_geo_id": 10009,
+    "country_geo_id": 23,
+    "shortlist": "BE-WNA",
+    "state": "Namur",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Namen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "state_geo_id": 10010,
+    "country_geo_id": 23,
+    "shortlist": "BE-BBR",
+    "state": "Bruxelles",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Brussel",
+        "override_default": true
+      }
+    ]
+  }
+]

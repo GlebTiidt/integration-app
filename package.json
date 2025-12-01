@@ -1,0 +1,26 @@
+{
+  "name": "integration-app",
+  "version": "1.0.0",
+  "description": "Integration between Zabun, Airtable, and Webflow",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/fullSync.js",
+    "test:airtable": "node src/testAirtable.js",
+    "sync:agents": "node src/syncAgents.js",
+    "sync:webflow": "node src/webflowSync.js",
+    "sync:webflow:comfort": "node src/webflowSync.js comfort",
+    "sync:webflow:facilities": "node src/webflowSync.js facilities",
+    "sync:webflow:environments": "node src/webflowSync.js environments",
+    "sync:webflow:properties": "node src/webflowSync.js properties",
+    "sync:all": "node src/fullSync.js",
+    "debug:headtype": "node src/debugHeadType.js",
+    "sync:property": "node src/syncSingleProperty.js"
+  },
+  "author": "Gleb Stepanovich",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-fetch": "^3.3.2"
+  }
+}

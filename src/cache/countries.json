@@ -1,0 +1,3221 @@
+[
+  {
+    "country_geo_id": 4,
+    "country": "Andorra",
+    "code": "AD",
+    "number": "376",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Andorra",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 5,
+    "country": "United Arab Emirates",
+    "code": "AE",
+    "number": "971",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Verenigde Arabische Emiraten",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 6,
+    "country": "Afghanistan",
+    "code": "AF",
+    "number": "93",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Afghanistan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 7,
+    "country": "Antigua And Barbuda",
+    "code": "AG",
+    "number": "1268",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Antigua en Barbuda",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 8,
+    "country": "Anguilla",
+    "code": "AI",
+    "number": "1264",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Anguilla",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 9,
+    "country": "Albania",
+    "code": "AL",
+    "number": "355",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Albanië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 10,
+    "country": "Armenia",
+    "code": "AM",
+    "number": "374",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Armenië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 11,
+    "country": "Netherlands Antilles",
+    "code": "AN",
+    "number": "599",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Nederlandse Antillen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 12,
+    "country": "Angola",
+    "code": "AO",
+    "number": "244",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Angola",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 13,
+    "country": "Antarctica",
+    "code": "AQ",
+    "number": "6721",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Antarctica",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 14,
+    "country": "Argentina",
+    "code": "AR",
+    "number": "54",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Argentinië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 15,
+    "country": "American Samoa",
+    "code": "AS",
+    "number": "1684",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Amerikaans-Samoa",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 16,
+    "country": "Austria",
+    "code": "AT",
+    "number": "43",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Oostenrijk",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 17,
+    "country": "Australia",
+    "code": "AU",
+    "number": "61",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Australië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 18,
+    "country": "Aruba",
+    "code": "AW",
+    "number": "297",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Aruba",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 19,
+    "country": "Azerbaijan",
+    "code": "AZ",
+    "number": "994",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Azerbeidzjan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 20,
+    "country": "Bosnia And Herzegovina",
+    "code": "BA",
+    "number": "387",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Bosnië en Herzegovina",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 21,
+    "country": "Barbados",
+    "code": "BB",
+    "number": "1246",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Barbados",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 22,
+    "country": "Bangladesh",
+    "code": "BD",
+    "number": "880",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Bangladesh",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 23,
+    "country": "Belgium",
+    "code": "BE",
+    "number": "32",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "België",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 24,
+    "country": "Burkina Faso",
+    "code": "BF",
+    "number": "226",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Burkina Faso",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 25,
+    "country": "Bulgaria",
+    "code": "BG",
+    "number": "359",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Bulgarije",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 26,
+    "country": "Bahrain",
+    "code": "BH",
+    "number": "973",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Bahrein",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 27,
+    "country": "Burundi",
+    "code": "BI",
+    "number": "257",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Burundi",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 28,
+    "country": "Benin",
+    "code": "BJ",
+    "number": "229",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Benin",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 29,
+    "country": "Bermuda",
+    "code": "BM",
+    "number": "1441",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Bermuda",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 30,
+    "country": "Brunei Darussalam",
+    "code": "BN",
+    "number": "673",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Brunei",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 31,
+    "country": "Bolivia",
+    "code": "BO",
+    "number": "591",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Bolivia",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 32,
+    "country": "Brazil",
+    "code": "BR",
+    "number": "55",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Brazilië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 33,
+    "country": "Bahamas",
+    "code": "BS",
+    "number": "1242",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Bahamas",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 34,
+    "country": "Bhutan",
+    "code": "BT",
+    "number": "975",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Bhutan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 35,
+    "country": "Bouvet Island",
+    "code": "BV",
+    "number": "0",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Bouvet",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 36,
+    "country": "Botswana",
+    "code": "BW",
+    "number": "267",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Botswana",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 37,
+    "country": "Belarus",
+    "code": "BY",
+    "number": "375",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Wit-Rusland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 38,
+    "country": "Belize",
+    "code": "BZ",
+    "number": "501",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Belize",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 39,
+    "country": "Canada",
+    "code": "CA",
+    "number": "1",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Canada",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 40,
+    "country": "Cocos (Keeling) Islands",
+    "code": "CC",
+    "number": "6189162",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Cocoseilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 41,
+    "country": "The Democratic Republic Of The Congo",
+    "code": "CD",
+    "number": "243",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Congo DR",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 42,
+    "country": "Central African Republic",
+    "code": "CF",
+    "number": "236",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Centrale Afrikaanse Republiek",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 43,
+    "country": "Republic of the Congo",
+    "code": "CG",
+    "number": "242",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Congo",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 44,
+    "country": "Switzerland",
+    "code": "CH",
+    "number": "41",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Zwitserland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 45,
+    "country": "Ivory Coast",
+    "code": "CI",
+    "number": "225",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Ivoorkust",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 46,
+    "country": "Cook Islands",
+    "code": "CK",
+    "number": "682",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Cookeilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 47,
+    "country": "Chile",
+    "code": "CL",
+    "number": "56",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Chili",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 48,
+    "country": "Cameroon",
+    "code": "CM",
+    "number": "237",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Kameroen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 49,
+    "country": "China",
+    "code": "CN",
+    "number": "86",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "China",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 50,
+    "country": "Colombia",
+    "code": "CO",
+    "number": "57",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Colombia",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 51,
+    "country": "Costa Rica",
+    "code": "CR",
+    "number": "506",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Costa Rica",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 52,
+    "country": "Cuba",
+    "code": "CU",
+    "number": "53",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Cuba",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 53,
+    "country": "Cape Verde",
+    "code": "CV",
+    "number": "238",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Kaapverdië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 54,
+    "country": "Christmas Island",
+    "code": "CX",
+    "number": "6189164",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Christmaseiland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 55,
+    "country": "Cyprus",
+    "code": "CY",
+    "number": "357",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Cyprus",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 56,
+    "country": "Czech Republic",
+    "code": "CZ",
+    "number": "42",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Tsjechië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 57,
+    "country": "Germany",
+    "code": "DE",
+    "number": "49",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Duitsland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 58,
+    "country": "Djibouti",
+    "code": "DJ",
+    "number": "253",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Djibouti",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 59,
+    "country": "Denmark",
+    "code": "DK",
+    "number": "45",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Denemarken",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 60,
+    "country": "Dominica",
+    "code": "DM",
+    "number": "1767",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Dominca",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 61,
+    "country": "Dominican Republic",
+    "code": "DO",
+    "number": "1809",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Dominicaanse Republiek",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 62,
+    "country": "Algeria",
+    "code": "DZ",
+    "number": "213",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Algerije",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 63,
+    "country": "Ecuador",
+    "code": "EC",
+    "number": "593",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Ecuador",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 64,
+    "country": "Estonia",
+    "code": "EE",
+    "number": "375",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Estland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 65,
+    "country": "Egypt",
+    "code": "EG",
+    "number": "20",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Egypte",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 66,
+    "country": "Western Sahara",
+    "code": "EH",
+    "number": "212",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Westelijke Sahara",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 67,
+    "country": "Eritrea",
+    "code": "ER",
+    "number": "291",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Eritrea",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 68,
+    "country": "Spain",
+    "code": "ES",
+    "number": "34",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Spanje",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 69,
+    "country": "Ethiopia",
+    "code": "ET",
+    "number": "251",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Ethiopië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 70,
+    "country": "Finland",
+    "code": "FI",
+    "number": "358",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Finland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 71,
+    "country": "Fiji",
+    "code": "FJ",
+    "number": "679",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Fiji",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 72,
+    "country": "Falkland Islands (Malvinas)",
+    "code": "FK",
+    "number": "500",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Falklandeilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 73,
+    "country": "Federated States Of Micronesia",
+    "code": "FM",
+    "number": "691",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Micronesië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 74,
+    "country": "Faroe Islands",
+    "code": "FO",
+    "number": "298",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Faeröer",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 75,
+    "country": "France",
+    "code": "FR",
+    "number": "33",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Frankrijk",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 76,
+    "country": "Gabon",
+    "code": "GA",
+    "number": "241",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Gabon",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 77,
+    "country": "Grenada",
+    "code": "GD",
+    "number": "1473",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Grenada",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 78,
+    "country": "Georgia",
+    "code": "GE",
+    "number": "995",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Georgië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 79,
+    "country": "French Guiana",
+    "code": "GF",
+    "number": "594",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Frans-Guyana",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 80,
+    "country": "Guernsey",
+    "code": "GG",
+    "number": "441481",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Guernsey",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 81,
+    "country": "Ghana",
+    "code": "GH",
+    "number": "233",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Ghana",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 82,
+    "country": "Gibraltar",
+    "code": "GI",
+    "number": "350",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Gibraltar",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 83,
+    "country": "Greenland",
+    "code": "GL",
+    "number": "299",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Groenland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 84,
+    "country": "Gambia",
+    "code": "GM",
+    "number": "220",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Gambia",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 85,
+    "country": "Guinea",
+    "code": "GN",
+    "number": "224",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Guinee",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 86,
+    "country": "Guadeloupe",
+    "code": "GP",
+    "number": "590",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Guadeloupe",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 87,
+    "country": "Equatorial Guinea",
+    "code": "GQ",
+    "number": "240",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Equatoriaal-Guinea",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 88,
+    "country": "Greece",
+    "code": "GR",
+    "number": "30",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Griekenland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 89,
+    "country": "South Georgia And The South Sandwich Islands",
+    "code": "GS",
+    "number": "500",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Zuid-Georgia en de Zuidelijke Sandwicheilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 90,
+    "country": "Guatemala",
+    "code": "GT",
+    "number": "502",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Guatemala",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 91,
+    "country": "Guam",
+    "code": "GU",
+    "number": "1671",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Guam",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 92,
+    "country": "Guinea-Bissau",
+    "code": "GW",
+    "number": "245",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Guinee-Bissau",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 93,
+    "country": "Guyana",
+    "code": "GY",
+    "number": "592",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Guyana",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 94,
+    "country": "Hong Kong",
+    "code": "HK",
+    "number": "852",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Hongkong",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 95,
+    "country": "Heard Island And Mcdonald Islands",
+    "code": "HM",
+    "number": "0",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Heard en McDonaldeilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 96,
+    "country": "Honduras",
+    "code": "HN",
+    "number": "504",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Honduras",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 97,
+    "country": "Croatia",
+    "code": "HR",
+    "number": "385",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Kroatië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 98,
+    "country": "Haiti",
+    "code": "HT",
+    "number": "509",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Haiti",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 99,
+    "country": "Hungary",
+    "code": "HU",
+    "number": "36",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Hongarije",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 100,
+    "country": "Indonesia",
+    "code": "ID",
+    "number": "65",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Indonesië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 101,
+    "country": "Ireland",
+    "code": "IE",
+    "number": "353",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Ierland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 102,
+    "country": "Israel",
+    "code": "IL",
+    "number": "972",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Israël",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 103,
+    "country": "Isle of Man",
+    "code": "IM",
+    "number": "44",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Man",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 104,
+    "country": "India",
+    "code": "IN",
+    "number": "91",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "India",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 105,
+    "country": "British Indian Ocean Territory",
+    "code": "IO",
+    "number": "246",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Brits Indische Oceaanterritorium",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 106,
+    "country": "Iraq",
+    "code": "IQ",
+    "number": "964",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Irak",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 107,
+    "country": "Iran",
+    "code": "IR",
+    "number": "98",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Iran",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 108,
+    "country": "Iceland",
+    "code": "IS",
+    "number": "354",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Ijsland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 109,
+    "country": "Italy",
+    "code": "IT",
+    "number": "39",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Italië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 110,
+    "country": "Jersey",
+    "code": "JE",
+    "number": "44",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Jersey",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 111,
+    "country": "Jamaica",
+    "code": "JM",
+    "number": "1876",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Jamaica",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 112,
+    "country": "Jordan",
+    "code": "JO",
+    "number": "962",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Jordanië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 113,
+    "country": "Japan",
+    "code": "JP",
+    "number": "81",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Japan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 114,
+    "country": "Kenya",
+    "code": "KE",
+    "number": "254",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Kenia",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 115,
+    "country": "Kyrgyzstan",
+    "code": "KG",
+    "number": "996",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Kirgizië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 116,
+    "country": "Cambodia",
+    "code": "KH",
+    "number": "855",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Cambodja",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 117,
+    "country": "Kiribati",
+    "code": "KI",
+    "number": "686",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Kiribati",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 118,
+    "country": "Comoros",
+    "code": "KM",
+    "number": "2697",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Comoren",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 119,
+    "country": "Saint Kitts And Nevis",
+    "code": "KN",
+    "number": "1869",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Saint Kitts en Nevis",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 120,
+    "country": "North Korea",
+    "code": "KP",
+    "number": "850",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Noord-Korea",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 121,
+    "country": "South Korea",
+    "code": "KR",
+    "number": "82",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Zuid-Korea",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 122,
+    "country": "Kuwait",
+    "code": "KW",
+    "number": "965",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Koeweit",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 123,
+    "country": "Cayman Islands",
+    "code": "KY",
+    "number": "1345",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Kaaimaneilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 124,
+    "country": "Kazakhstan",
+    "code": "KZ",
+    "number": "7",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Kazakhstan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 125,
+    "country": "Laos",
+    "code": "LA",
+    "number": "856",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Laos",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 126,
+    "country": "Lebanon",
+    "code": "LB",
+    "number": "961",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Libanon",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 127,
+    "country": "Saint Lucia",
+    "code": "LC",
+    "number": "1758",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Saint Lucia",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 128,
+    "country": "Liechtenstein",
+    "code": "LI",
+    "number": "423",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Liechtenstein",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 129,
+    "country": "Sri Lanka",
+    "code": "LK",
+    "number": "94",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Sri Lanka",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 130,
+    "country": "Liberia",
+    "code": "LR",
+    "number": "231",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Liberia",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 131,
+    "country": "Lesotho",
+    "code": "LS",
+    "number": "266",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Lesotho",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 132,
+    "country": "Lithuania",
+    "code": "LT",
+    "number": "370",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Litouwen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 133,
+    "country": "Luxembourg",
+    "code": "LU",
+    "number": "352",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Luxemburg",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 134,
+    "country": "Latvia",
+    "code": "LV",
+    "number": "371",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Letland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 135,
+    "country": "Libya",
+    "code": "LY",
+    "number": "218",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Libië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 136,
+    "country": "Morocco",
+    "code": "MA",
+    "number": "212",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Marokko",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 137,
+    "country": "Monaco",
+    "code": "MC",
+    "number": "377",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Monaco",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 138,
+    "country": "Moldova",
+    "code": "MD",
+    "number": "373",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Moldavië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 139,
+    "country": "Madagascar",
+    "code": "MG",
+    "number": "261",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Madagaskar",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 140,
+    "country": "Marshall Islands",
+    "code": "MH",
+    "number": "692",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Marshall Eilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 141,
+    "country": "North Macedonia",
+    "code": "MK",
+    "number": "389",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Noord-Macedonië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 142,
+    "country": "Mali",
+    "code": "ML",
+    "number": "223",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Mali",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 143,
+    "country": "Myanmar",
+    "code": "MM",
+    "number": "95",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Myanmar",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 144,
+    "country": "Mongolia",
+    "code": "MN",
+    "number": "976",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Mongolië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 145,
+    "country": "Macao",
+    "code": "MO",
+    "number": "853",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Macau",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 146,
+    "country": "Northern Mariana Islands",
+    "code": "MP",
+    "number": "1670",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Noordelijke Marianen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 147,
+    "country": "Martinique",
+    "code": "MQ",
+    "number": "596",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Martinique",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 148,
+    "country": "Mauritania",
+    "code": "MR",
+    "number": "222",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Mauritanië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 149,
+    "country": "Montserrat",
+    "code": "MS",
+    "number": "1664",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Montserrat",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 150,
+    "country": "Malta",
+    "code": "MT",
+    "number": "356",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Malta",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 151,
+    "country": "Mauritius",
+    "code": "MU",
+    "number": "230",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Mauritius",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 152,
+    "country": "Maldives",
+    "code": "MV",
+    "number": "960",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Malediven",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 153,
+    "country": "Malawi",
+    "code": "MW",
+    "number": "265",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Malawi",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 154,
+    "country": "Mexico",
+    "code": "MX",
+    "number": "52",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Mexico",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 155,
+    "country": "Malaysia",
+    "code": "MY",
+    "number": "60",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Maleisië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 156,
+    "country": "Mozambique",
+    "code": "MZ",
+    "number": "258",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Mozambique",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 157,
+    "country": "Namibia",
+    "code": "NA",
+    "number": "264",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Namibië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 158,
+    "country": "New Caledonia",
+    "code": "NC",
+    "number": "687",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Nieuw-Caledonië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 159,
+    "country": "Niger",
+    "code": "NE",
+    "number": "227",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Niger",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 160,
+    "country": "Norfolk Island",
+    "code": "NF",
+    "number": "6723",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Norfolk",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 161,
+    "country": "Nigeria",
+    "code": "NG",
+    "number": "234",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Nigeria",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 162,
+    "country": "Nicaragua",
+    "code": "NI",
+    "number": "505",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Nicaragua",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 163,
+    "country": "Netherlands",
+    "code": "NL",
+    "number": "31",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Nederland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 164,
+    "country": "Norway",
+    "code": "NO",
+    "number": "47",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Noorwegen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 165,
+    "country": "Nepal",
+    "code": "NP",
+    "number": "977",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Nepal",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 166,
+    "country": "Nauru",
+    "code": "NR",
+    "number": "674",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Nauru",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 167,
+    "country": "Niue",
+    "code": "NU",
+    "number": "683",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Niue",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 168,
+    "country": "New Zealand",
+    "code": "NZ",
+    "number": "64",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Nieuw-Zeeland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 169,
+    "country": "Oman",
+    "code": "OM",
+    "number": "968",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Oman",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 170,
+    "country": "Panama",
+    "code": "PA",
+    "number": "507",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Panama",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 171,
+    "country": "Peru",
+    "code": "PE",
+    "number": "51",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Peru",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 172,
+    "country": "French Polynesia",
+    "code": "PF",
+    "number": "689",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Frans-Polynesië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 173,
+    "country": "Papua New Guinea",
+    "code": "PG",
+    "number": "675",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Papua New Guinea",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 174,
+    "country": "Philippines",
+    "code": "PH",
+    "number": "63",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Filipijnen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 175,
+    "country": "Pakistan",
+    "code": "PK",
+    "number": "92",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Pakistan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 176,
+    "country": "Poland",
+    "code": "PL",
+    "number": "48",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Polen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 177,
+    "country": "Saint Pierre And Miquelon",
+    "code": "PM",
+    "number": "508",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Saint-Pierre en Miquelon",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 178,
+    "country": "Pitcairn",
+    "code": "PN",
+    "number": "64",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Pitcairneilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 179,
+    "country": "Puerto Rico",
+    "code": "PR",
+    "number": "1787",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Puerto Rico",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 180,
+    "country": "Palestina",
+    "code": "PS",
+    "number": "970",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Palestina",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 181,
+    "country": "Portugal",
+    "code": "PT",
+    "number": "351",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Portugal",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 182,
+    "country": "Palau",
+    "code": "PW",
+    "number": "680",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Palau",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 183,
+    "country": "Paraguay",
+    "code": "PY",
+    "number": "595",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Paraguay",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 184,
+    "country": "Panama",
+    "code": "PZ",
+    "number": "0",
+    "alias": []
+  },
+  {
+    "country_geo_id": 185,
+    "country": "Qatar",
+    "code": "QA",
+    "number": "974",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Qatar",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 186,
+    "country": "Réunion",
+    "code": "RE",
+    "number": "262",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Réunion",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 187,
+    "country": "Romania",
+    "code": "RO",
+    "number": "40",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Roemenië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 188,
+    "country": "Russian Federation",
+    "code": "RU",
+    "number": "7",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Rusland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 189,
+    "country": "Rwanda",
+    "code": "RW",
+    "number": "250",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Rwanda",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 190,
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "number": "966",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Saudi-Arabië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 191,
+    "country": "Solomon Islands",
+    "code": "SB",
+    "number": "677",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Solomon Eilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 192,
+    "country": "Seychelles",
+    "code": "SC",
+    "number": "248",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Seychellen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 193,
+    "country": "Sudan",
+    "code": "SD",
+    "number": "249",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Soedan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 194,
+    "country": "Sweden",
+    "code": "SE",
+    "number": "46",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Zweden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 195,
+    "country": "Singapore",
+    "code": "SG",
+    "number": "65",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Singapore",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 196,
+    "country": "Saint Helena",
+    "code": "SH",
+    "number": "290",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Sint-Helena",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 197,
+    "country": "Slovenia",
+    "code": "SI",
+    "number": "386",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Slovenië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 198,
+    "country": "Svalbard And Jan Mayen",
+    "code": "SJ",
+    "number": "47",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Spitsbergen en Jan Mayen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 199,
+    "country": "Slovakia",
+    "code": "SK",
+    "number": "421",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Slowakije",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 200,
+    "country": "Sierra Leone",
+    "code": "SL",
+    "number": "232",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Sierra Leone",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 201,
+    "country": "San Marino",
+    "code": "SM",
+    "number": "378",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "San Marino",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 202,
+    "country": "Senegal",
+    "code": "SN",
+    "number": "221",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Senegal",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 203,
+    "country": "Somalia",
+    "code": "SO",
+    "number": "252",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Somalië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 204,
+    "country": "Suriname",
+    "code": "SR",
+    "number": "597",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Suriname",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 205,
+    "country": "Sao Tome And Principe",
+    "code": "ST",
+    "number": "239",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Sao Tomé en Principe",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 206,
+    "country": "El Salvador",
+    "code": "SV",
+    "number": "503",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "El Salvador",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 207,
+    "country": "Syrian Arab Republic",
+    "code": "SY",
+    "number": "963",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Syrië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 208,
+    "country": "Swaziland",
+    "code": "SZ",
+    "number": "268",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Swaziland",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 209,
+    "country": "Turks And Caicos Islands",
+    "code": "TC",
+    "number": "1649",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Turks- en Caicoseilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 210,
+    "country": "Chad",
+    "code": "TD",
+    "number": "235",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Tsjaad",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 211,
+    "country": "French Southern Territories",
+    "code": "TF",
+    "number": "0",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Franse Zuidelijke en Antarctische Gebieden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 212,
+    "country": "Togo",
+    "code": "TG",
+    "number": "228",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Togo",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 213,
+    "country": "Thailand",
+    "code": "TH",
+    "number": "66",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Thailand",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 214,
+    "country": "Tajikistan",
+    "code": "TJ",
+    "number": "992",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Tadzjikistan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 215,
+    "country": "Tokelau",
+    "code": "TK",
+    "number": "690",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Tokelau",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 216,
+    "country": "Timor-Leste",
+    "code": "TL",
+    "number": "670",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Oost-Timor",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 217,
+    "country": "Turkmenistan",
+    "code": "TM",
+    "number": "993",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Turkmenistan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 218,
+    "country": "Tunisia",
+    "code": "TN",
+    "number": "216",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Tunesië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 219,
+    "country": "Tonga",
+    "code": "TO",
+    "number": "676",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Tonga",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 220,
+    "country": "Turkey",
+    "code": "TR",
+    "number": "90",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Turkije",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 221,
+    "country": "Trinidad And Tobago",
+    "code": "TT",
+    "number": "1868",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Trinidad en Tobago",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 222,
+    "country": "Tuvalu",
+    "code": "TV",
+    "number": "688",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Tuvalu",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 223,
+    "country": "Taiwan",
+    "code": "TW",
+    "number": "886",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Taiwan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 224,
+    "country": "Tanzania, United Republic Of",
+    "code": "TZ",
+    "number": "255",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Tanzania",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 225,
+    "country": "Ukraine",
+    "code": "UA",
+    "number": "380",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Oekraïne",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 226,
+    "country": "Uganda",
+    "code": "UG",
+    "number": "256",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Oeganda",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 227,
+    "country": "United Kingdom",
+    "code": "UK",
+    "number": "44",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Verenigd Koninkrijk",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 228,
+    "country": "United States Minor Outlying Islands",
+    "code": "UM",
+    "number": "246",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Kleine Afgelegen Eilanden van de Verenigde Staten",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 229,
+    "country": "United States",
+    "code": "US",
+    "number": "1",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Verenigde Staten",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 230,
+    "country": "Uruguay",
+    "code": "UY",
+    "number": "598",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Uruguay",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 231,
+    "country": "Uzbekistan",
+    "code": "UZ",
+    "number": "998",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Oezbekistan",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 232,
+    "country": "Holy See (Vatican City State)",
+    "code": "VA",
+    "number": "379",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Vaticaanstad",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 233,
+    "country": "Saint Vincent And The Grenadines",
+    "code": "VC",
+    "number": "1784",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Saint Vincent en de Grenadines",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 234,
+    "country": "Venezuela",
+    "code": "VE",
+    "number": "58",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Venezuela",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 235,
+    "country": "Virgin Islands, British",
+    "code": "VG",
+    "number": "1284",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Britse Maagdeneilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 236,
+    "country": "Virgin Islands, U.S.",
+    "code": "VI",
+    "number": "1340",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Amerikaanse Maagdeneilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 237,
+    "country": "Viet Nam",
+    "code": "VN",
+    "number": "84",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Vietnam",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 238,
+    "country": "Vanuatu",
+    "code": "VU",
+    "number": "678",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Vanuatu",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 239,
+    "country": "Wallis And Futuna",
+    "code": "WF",
+    "number": "681",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Wallis en Futuna",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 240,
+    "country": "Samoa",
+    "code": "WS",
+    "number": "684",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Samoa",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 241,
+    "country": "Yemen",
+    "code": "YE",
+    "number": "967",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Jemen",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 242,
+    "country": "Mayotte",
+    "code": "YT",
+    "number": "2696",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Mayotte",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 243,
+    "country": "Yugoslavia",
+    "code": "YU",
+    "number": "0",
+    "alias": []
+  },
+  {
+    "country_geo_id": 244,
+    "country": "South Africa",
+    "code": "ZA",
+    "number": "27",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Zuid-Afrika",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 245,
+    "country": "Zambia",
+    "code": "ZM",
+    "number": "260",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Zambia",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 246,
+    "country": "Zimbabwe",
+    "code": "ZW",
+    "number": "",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Zimbabwe",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 247,
+    "country": "Montenegro",
+    "code": "ME",
+    "number": "381",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Montenegro",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 248,
+    "country": "Åland Islands",
+    "code": "AX",
+    "number": "35818",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Åland-eilanden",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 249,
+    "country": "Curaçao",
+    "code": "CW",
+    "number": "599",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Curaçao",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 250,
+    "country": "Kosovo",
+    "code": "KS",
+    "number": "383",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Kosovo",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 251,
+    "country": "Serbia",
+    "code": "RS",
+    "number": "381",
+    "alias": [
+      {
+        "lang": "NL",
+        "alias": "Servië",
+        "override_default": true
+      }
+    ]
+  },
+  {
+    "country_geo_id": 252,
+    "country": "Bonaire",
+    "code": "BQ",
+    "number": "599",
+    "alias": []
+  }
+]

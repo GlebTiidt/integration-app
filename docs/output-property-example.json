@@ -1,0 +1,853 @@
+{
+  "environments": [
+    {
+      "active": true,
+      "property_id": 0,
+      "environment_id": 0,
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0,
+      "comment": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      }
+    }
+  ],
+  "facilities": [
+    {
+      "active": true,
+      "property_id": 0,
+      "facility_id": 0,
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0
+    }
+  ],
+  "head_type_id": 0,
+  "history_price": [
+    {
+      "price_agreed": 0,
+      "price_estimate_renovation": 0,
+      "price_square_meter": 0,
+      "price": 0,
+      "price_original": 0,
+      "property_id": 0,
+      "date_history": "2025-11-06T10:16:36.983Z",
+      "responsible_salesrep_person_id": 0,
+      "responsible_salesrep_bedrijf_id": 0,
+      "company_id": 0
+    }
+  ],
+  "price_class": "string",
+  "regions": [
+    "string"
+  ],
+  "property_id": 0,
+  "is_project": true,
+  "parent_property_id": 0,
+  "child_properties": [
+    {
+      "property_id": 0,
+      "is_project": true,
+      "parent_property_id": 0,
+      "status_id": 0,
+      "floor": 0,
+      "publish": true,
+      "show": true,
+      "archived": true,
+      "deleted": true,
+      "creation": "2025-11-06T10:16:36.983Z",
+      "changed": "2025-11-06T10:16:36.983Z",
+      "office_autoid": 0,
+      "transaction_id": 0,
+      "type_id": 0,
+      "head_type_id": 0,
+      "sticker_id": 0,
+      "responsible_salesrep_person_id": 0,
+      "company_id": 0,
+      "price": 0,
+      "price_visible": true,
+      "reference": "string",
+      "area_ground": 0,
+      "area_build": 0,
+      "development": true,
+      "address": {
+        "city_geo_id": 0,
+        "number": "string",
+        "street_translated": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "city_area_geo_id": 0,
+        "state_geo_id": 0,
+        "country_geo_id": 0,
+        "street": "string",
+        "street_lang": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "box": "string",
+        "address_visible": true,
+        "latitude": 0,
+        "longitude": 0,
+        "city_geo": {
+          "state": {
+            "state_geo_id": 0,
+            "country_geo_id": 0,
+            "shortlist": "string",
+            "state": "string",
+            "alias": [
+              {
+                "lang": "string",
+                "alias": "string",
+                "override_default": true
+              }
+            ]
+          },
+          "city_geo_id": 0,
+          "city": "string",
+          "city_full": "string",
+          "country_geo_id": 0,
+          "area": "string",
+          "lat": 0,
+          "lng": 0,
+          "region1": "string",
+          "region2": "string",
+          "region3": "string",
+          "region4": "string",
+          "state_geo_id": 0,
+          "zip": "string",
+          "alias": [
+            {
+              "lang": "string",
+              "alias": "string",
+              "override_default": true
+            }
+          ]
+        }
+      },
+      "photo_url": "string",
+      "active_category_id": [
+        0
+      ],
+      "media_start_date": "2025-11-06T10:16:36.983Z",
+      "bedroom_count": 0,
+      "bathroom_count": 0,
+      "title_translated": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      },
+      "clicks": {
+        "clicks_for_media": 0,
+        "clicks_total": 0
+      }
+    }
+  ],
+  "build_stages": [
+    {
+      "autoid": 0,
+      "property_id": 0,
+      "build_stage_id": 0,
+      "date_finished": "2025-11-06T10:16:36.983Z",
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0,
+      "comment": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      }
+    }
+  ],
+  "payments": [
+    {
+      "autoid": 0,
+      "property_id": 0,
+      "property_project_payment_autoid": 0,
+      "payment_percent": 0,
+      "payment": 0,
+      "payment_paid": 0,
+      "payment_date": "2025-11-06T10:16:36.983Z",
+      "date_paid": "2025-11-06T10:16:36.983Z",
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0
+    }
+  ],
+  "project_payments": [
+    {
+      "autoid": 0,
+      "property_id": 0,
+      "name": "string",
+      "payment_percent": 0,
+      "payment": 0,
+      "build_stage": 0,
+      "payment_date": "2025-11-06T10:16:36.983Z",
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0
+    }
+  ],
+  "status_id": 0,
+  "publish": true,
+  "show": true,
+  "archived": true,
+  "deleted": true,
+  "development": true,
+  "investment": true,
+  "exclusive": true,
+  "passive_house": true,
+  "low_energy_house": true,
+  "main_residence": true,
+  "holiday_residence": true,
+  "student_residence": true,
+  "equity": true,
+  "city_use_region4": true,
+  "creation_person_id": 0,
+  "creation": "2025-11-06T10:16:36.983Z",
+  "changed": "2025-11-06T10:16:36.983Z",
+  "changed_person_id": 0,
+  "bedrijf_id": 0,
+  "company_id": 0,
+  "office_autoid": 0,
+  "transaction_id": 0,
+  "type_id": 0,
+  "building_type_id": 0,
+  "condition_id": 0,
+  "sticker_id": 0,
+  "mandate_type_id": 0,
+  "mandate_start": "2025-11-06T10:16:36.983Z",
+  "mandate_end": "2025-11-06T10:16:36.983Z",
+  "floor": 0,
+  "floor_id": "string",
+  "floors_total": 0,
+  "lead_source_id": 0,
+  "lead_source_link": "string",
+  "poster": true,
+  "administration": [
+    {
+      "property_id": 0,
+      "administration_id": 0,
+      "checked": true,
+      "asked_date": "2025-11-06T10:16:36.983Z",
+      "asked_person_id": 0,
+      "received_date": "2025-11-06T10:16:36.983Z",
+      "received_person_id": 0,
+      "price": 2000000000,
+      "comment": "string",
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0,
+      "contact_person": {
+        "autoid": 0,
+        "type": "CONTACT",
+        "name": "string",
+        "email": "string",
+        "phone_cc": "string",
+        "phone": "string",
+        "creation": "2025-11-06T10:16:36.983Z",
+        "creation_person_id": 0,
+        "changed": "2025-11-06T10:16:36.983Z",
+        "changed_person_id": 0,
+        "responsible_salesrep_person_id": 0,
+        "account_name": "string"
+      },
+      "is_job": true
+    }
+  ],
+  "layouts": [
+    {
+      "autoid": 0,
+      "common": true,
+      "property_id": 0,
+      "layout_id": 0,
+      "count": 100,
+      "surface": 0,
+      "floor": 0,
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0,
+      "sort": 0,
+      "comment": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      }
+    }
+  ],
+  "technicals": [
+    {
+      "autoid": 0,
+      "property_id": 0,
+      "technical_id": 0,
+      "evaluation_id": 0,
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0,
+      "technical_dropdown_id": 0,
+      "type_ids": [
+        0
+      ],
+      "comment": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      }
+    }
+  ],
+  "photo_url": "string",
+  "photos": [
+    {
+      "property_id": 0,
+      "type_id": 0,
+      "url": "string",
+      "autoid": 0,
+      "file_autoid": 0,
+      "url_thumbnail": "string",
+      "reference": "string",
+      "file_size": 0,
+      "index": 0,
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0,
+      "comment": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "autoid": 0,
+      "property_id": 0,
+      "type_id": 0,
+      "url": "string",
+      "index": 0,
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0,
+      "comment": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      }
+    }
+  ],
+  "files": [
+    {
+      "property_id": 0,
+      "type_id": 0,
+      "url": "string",
+      "autoid": 0,
+      "file_autoid": 0,
+      "url_thumbnail": "string",
+      "reference": "string",
+      "file_size": 0,
+      "index": 0,
+      "creation": "2025-11-06T10:16:36.983Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.983Z",
+      "changed_person_id": 0,
+      "company_id": 0,
+      "comment": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      }
+    }
+  ],
+  "price": 2000000000,
+  "price_total": 2000000000,
+  "comment_price": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "comment_epc": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "comment_technical": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "price_square_meter": 2000000000,
+  "price_from": true,
+  "price_period_id": 0,
+  "rentable_guarantee": 2000000000,
+  "price_start": 2000000000,
+  "price_bottom": 2000000000,
+  "price_estimate": 2000000000,
+  "price_agreed": 2000000000,
+  "price_estimate_renovation": 2000000000,
+  "price_visible": true,
+  "available_date": "2025-11-06T10:16:36.983Z",
+  "infrastructure_value": 2000000000,
+  "miscellaneous_charges": 2000000000,
+  "construction_year": "string",
+  "renovation_year": "string",
+  "commission": 2000000000,
+  "commission_percent": 100,
+  "taxes": 2000000000,
+  "taxes_percent": 100,
+  "registration_percent": 100,
+  "ground_value": 2000000000,
+  "furniture_value": 2000000000,
+  "reduced_registration": true,
+  "rent_index_contract_end": "2025-11-06T10:16:36.983Z",
+  "rent_index_contract_registered": "2025-11-06T10:16:36.983Z",
+  "rent_index_duration_id": 0,
+  "rent_index_bank": "string",
+  "rent_index_account_number": "string",
+  "rent_index_automatic_payment": true,
+  "rent_index_automatic": true,
+  "parts": 0,
+  "parts_count": 0,
+  "parts_total": 0,
+  "monthly_cost": 2000000000,
+  "community_tax": 2000000000,
+  "notary_document": {
+    "autoid": 0,
+    "type": "CONTACT",
+    "name": "string",
+    "email": "string",
+    "phone_cc": "string",
+    "phone": "string",
+    "creation": "2025-11-06T10:16:36.983Z",
+    "creation_person_id": 0,
+    "changed": "2025-11-06T10:16:36.983Z",
+    "changed_person_id": 0,
+    "responsible_salesrep_person_id": 0,
+    "account_name": "string"
+  },
+  "notary_document_salary": 2000000000,
+  "notary_document_cost": 2000000000,
+  "syndicus": {
+    "autoid": 0,
+    "type": "CONTACT",
+    "name": "string",
+    "email": "string",
+    "phone_cc": "string",
+    "phone": "string",
+    "creation": "2025-11-06T10:16:36.983Z",
+    "creation_person_id": 0,
+    "changed": "2025-11-06T10:16:36.983Z",
+    "changed_person_id": 0,
+    "responsible_salesrep_person_id": 0,
+    "account_name": "string"
+  },
+  "area_ground": 0,
+  "area_build": 0,
+  "area_buildable": 0,
+  "comment_area": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "width_house": 0,
+  "depth_house": 0,
+  "width_ground": 0,
+  "depth_ground": 0,
+  "depth_floor": 0,
+  "depth_ground_floor": 0,
+  "clicks_per_media": {
+    "additionalProp1": 0,
+    "additionalProp2": 0,
+    "additionalProp3": 0
+  },
+  "responsible_salesrep_person_id": 0,
+  "seller_person_id": 0,
+  "purchaser_person_id": 0,
+  "owner": {
+    "autoid": 0,
+    "type": "CONTACT",
+    "name": "string",
+    "email": "string",
+    "phone_cc": "string",
+    "phone": "string",
+    "creation": "2025-11-06T10:16:36.983Z",
+    "creation_person_id": 0,
+    "changed": "2025-11-06T10:16:36.983Z",
+    "changed_person_id": 0,
+    "responsible_salesrep_person_id": 0,
+    "account_name": "string"
+  },
+  "renter": {
+    "autoid": 0,
+    "type": "CONTACT",
+    "name": "string",
+    "email": "string",
+    "phone_cc": "string",
+    "phone": "string",
+    "creation": "2025-11-06T10:16:36.983Z",
+    "creation_person_id": 0,
+    "changed": "2025-11-06T10:16:36.983Z",
+    "changed_person_id": 0,
+    "responsible_salesrep_person_id": 0,
+    "account_name": "string"
+  },
+  "buyer": {
+    "autoid": 0,
+    "type": "CONTACT",
+    "name": "string",
+    "email": "string",
+    "phone_cc": "string",
+    "phone": "string",
+    "creation": "2025-11-06T10:16:36.983Z",
+    "creation_person_id": 0,
+    "changed": "2025-11-06T10:16:36.983Z",
+    "changed_person_id": 0,
+    "responsible_salesrep_person_id": 0,
+    "account_name": "string"
+  },
+  "notary": {
+    "autoid": 0,
+    "type": "CONTACT",
+    "name": "string",
+    "email": "string",
+    "phone_cc": "string",
+    "phone": "string",
+    "creation": "2025-11-06T10:16:36.983Z",
+    "creation_person_id": 0,
+    "changed": "2025-11-06T10:16:36.983Z",
+    "changed_person_id": 0,
+    "responsible_salesrep_person_id": 0,
+    "account_name": "string"
+  },
+  "notary_buyer": {
+    "autoid": 0,
+    "type": "CONTACT",
+    "name": "string",
+    "email": "string",
+    "phone_cc": "string",
+    "phone": "string",
+    "creation": "2025-11-06T10:16:36.983Z",
+    "creation_person_id": 0,
+    "changed": "2025-11-06T10:16:36.983Z",
+    "changed_person_id": 0,
+    "responsible_salesrep_person_id": 0,
+    "account_name": "string"
+  },
+  "architect": {
+    "autoid": 0,
+    "type": "CONTACT",
+    "name": "string",
+    "email": "string",
+    "phone_cc": "string",
+    "phone": "string",
+    "creation": "2025-11-06T10:16:36.983Z",
+    "creation_person_id": 0,
+    "changed": "2025-11-06T10:16:36.983Z",
+    "changed_person_id": 0,
+    "responsible_salesrep_person_id": 0,
+    "account_name": "string"
+  },
+  "surveyor": {
+    "autoid": 0,
+    "type": "CONTACT",
+    "name": "string",
+    "email": "string",
+    "phone_cc": "string",
+    "phone": "string",
+    "creation": "2025-11-06T10:16:36.983Z",
+    "creation_person_id": 0,
+    "changed": "2025-11-06T10:16:36.983Z",
+    "changed_person_id": 0,
+    "responsible_salesrep_person_id": 0,
+    "account_name": "string"
+  },
+  "introducer_contact_autoid": 0,
+  "introducer": {
+    "contact_autoid": 0,
+    "account_autoid": 0,
+    "first_name": "string",
+    "last_name": "string",
+    "email": "string",
+    "home_email": "string",
+    "direct_phone": "string",
+    "direct_phone_cc": "string",
+    "mobile": "string",
+    "mobile_cc": "string",
+    "home_phone": "string",
+    "home_phone_cc": "string",
+    "language": "string",
+    "status_id": 0,
+    "responsible_salesrep_person_id": 0,
+    "can_be_mailed": true,
+    "is_opted_in": true,
+    "creation": "2025-11-06T10:16:36.984Z",
+    "changed": "2025-11-06T10:16:36.984Z",
+    "company_id": 0,
+    "person_id": 0,
+    "is_user": true
+  },
+  "file_administrator_person_id": 0,
+  "option_contacts": [
+    {
+      "autoid": 0,
+      "expire": "2025-11-06T10:16:36.984Z",
+      "is_active": true,
+      "contact_person": {
+        "autoid": 0,
+        "type": "CONTACT",
+        "name": "string",
+        "email": "string",
+        "phone_cc": "string",
+        "phone": "string",
+        "creation": "2025-11-06T10:16:36.984Z",
+        "creation_person_id": 0,
+        "changed": "2025-11-06T10:16:36.984Z",
+        "changed_person_id": 0,
+        "responsible_salesrep_person_id": 0,
+        "account_name": "string"
+      },
+      "creation": "2025-11-06T10:16:36.984Z",
+      "creation_person_id": 0,
+      "changed": "2025-11-06T10:16:36.984Z",
+      "changed_person_id": 0,
+      "company_id": 0
+    }
+  ],
+  "for_sale_through_account_autoids": [
+    0
+  ],
+  "for_sale_throughs": [
+    {
+      "account_autoid": 0,
+      "account_name": "string",
+      "short_name": "string",
+      "language": "string",
+      "company_id": 0,
+      "creation": "2025-11-06T10:16:36.984Z",
+      "changed": "2025-11-06T10:16:36.984Z",
+      "status_id": 0,
+      "legal_form_id": 0,
+      "phone": "string",
+      "phone_cc": "string",
+      "responsible_salesrep_person_id": 0,
+      "can_account_be_mailed": true,
+      "website": "string",
+      "email": "string",
+      "is_company": true,
+      "is_office": true
+    }
+  ],
+  "reference": "string",
+  "building_name": "string",
+  "address": {
+    "city_geo_id": 0,
+    "number": "string",
+    "street_translated": {
+      "additionalProp1": "string",
+      "additionalProp2": "string",
+      "additionalProp3": "string"
+    },
+    "city_area_geo_id": 0,
+    "state_geo_id": 0,
+    "country_geo_id": 0,
+    "street": "string",
+    "street_lang": {
+      "additionalProp1": "string",
+      "additionalProp2": "string",
+      "additionalProp3": "string"
+    },
+    "box": "string",
+    "address_visible": true,
+    "latitude": 0,
+    "longitude": 0,
+    "city_geo": {
+      "state": {
+        "state_geo_id": 0,
+        "country_geo_id": 0,
+        "shortlist": "string",
+        "state": "string",
+        "alias": [
+          {
+            "lang": "string",
+            "alias": "string",
+            "override_default": true
+          }
+        ]
+      },
+      "city_geo_id": 0,
+      "city": "string",
+      "city_full": "string",
+      "country_geo_id": 0,
+      "area": "string",
+      "lat": 0,
+      "lng": 0,
+      "region1": "string",
+      "region2": "string",
+      "region3": "string",
+      "region4": "string",
+      "state_geo_id": 0,
+      "zip": "string",
+      "alias": [
+        {
+          "lang": "string",
+          "alias": "string",
+          "override_default": true
+        }
+      ]
+    }
+  },
+  "comment_address": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "title": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "description": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "description_short": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "available": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "key": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "publicity": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "reason": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "internal_note": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "cep": "string",
+  "certificate_asbuilt_ynu": "YES",
+  "certificate_electricity_ynu": "YES",
+  "certificate_ep_ynu": "YES",
+  "certificate_ep_shared_ynu": "YES",
+  "co2": 0,
+  "co2_shared": 0,
+  "e_level": 0,
+  "e_level_shared": 0,
+  "k_level": 0,
+  "k_level_shared": 0,
+  "epc_value": 0,
+  "epc_value_shared": 0,
+  "epc_value_total": 2000000000,
+  "epc_value_total_shared": 2000000000,
+  "epc_reference": "string",
+  "epc_reference_shared": "string",
+  "epc_date": "2025-11-06T10:16:36.984Z",
+  "epc_date_shared": "2025-11-06T10:16:36.984Z",
+  "epc_date_expire": "2025-11-06T10:16:36.984Z",
+  "epc_date_expire_shared": "2025-11-06T10:16:36.984Z",
+  "epb_reference": "string",
+  "epb_reference_shared": "string",
+  "custom_epc_label": "string",
+  "custom_epc_label_shared": "string",
+  "certificate_electricity_conform": true,
+  "electricity_day_counter": "string",
+  "electricity_day_number": "string",
+  "electricity_night_counter": "string",
+  "electricity_night_number": "string",
+  "o_level_flooding_sensitivity_id": 0,
+  "o_level_flooding_zone_id": 0,
+  "heritage_protected_ynu": "YES",
+  "heritage_inventoried_id": 0,
+  "certificate_asbestos": 0,
+  "certificate_conformity_conform": true,
+  "certificate_conformity_ynu": "YES",
+  "asbestos_inventory": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "gas_counter": "string",
+  "gas_number": "string",
+  "water_counter": "string",
+  "water_number": "string",
+  "elevator": true,
+  "ki_name": "string",
+  "non_indexed_ki": 0,
+  "indexed_ki": 0,
+  "comment_ki": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  },
+  "direction_garden_id": 0,
+  "presale_right_ynu": "YES",
+  "allocation_license_ynu": "YES",
+  "town_planning_id": 0,
+  "town_planning_violation_id": 0,
+  "building_license_id": 0,
+  "furniture_ynu": "YES",
+  "pets_allowed_ynu": "YES",
+  "access_for_disabled_ynu": "YES",
+  "flooding_building_score": "string",
+  "flooding_parcel_score": "string",
+  "water_sensitive_open_space_area": 0,
+  "water_sensitive_open_space_area_expire": "2025-11-06T10:16:36.984Z",
+  "renovation_obligation_id": 0,
+  "building_obligation_id": 0,
+  "history_transaction": [
+    {
+      "transaction_id": 0,
+      "property_id": 0,
+      "date_history": "2025-11-06T10:16:36.984Z",
+      "responsible_salesrep_person_id": 0,
+      "responsible_salesrep_bedrijf_id": 0,
+      "company_id": 0
+    }
+  ],
+  "condominium": true,
+  "contract_effect": "2025-11-06T10:16:36.984Z",
+  "contract_signing": "2025-11-06T10:16:36.984Z",
+  "option_days": 0,
+  "option_reminder": 0,
+  "custom_geo": true,
+  "errors": "string"
+}
