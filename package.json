@@ -5,6 +5,7 @@
   "type": "module",
   "main": "src/index.js",
   "scripts": {
+    "build": "echo \"No build step\"",
     "start": "node src/fullSync.js",
     "test:airtable": "node src/testAirtable.js",
     "sync:agents": "node src/syncAgents.js",
